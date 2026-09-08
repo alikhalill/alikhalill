@@ -156,12 +156,10 @@ A highly optimized face detection pipeline built on the anchor-free <b>YOLOv8n</
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alikhalill&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" width="48%"/>
+
 <img src="https://streak-stats.demolab.com/?user=alikhalill&theme=tokyonight&hide_border=true" alt="Ali's GitHub Streak" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alikhalill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=alikhalill&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" width="48%"/>
 
 </div>
